@@ -2,10 +2,9 @@
 
 <p>I'm currently a 💻 <em>software engineer & mid-level FE developer</em> <strong><a href="https://ro.deloittedigital.com/">@DeloitteDigital</a></strong>, based in 🌁 Bucharest, Romania. I'm also pursuing the 📙 Master's Degree in <em>Management and Protection of Information</em> at 🏫 Politehnica University in Bucharest, being in my final year 👨‍🎓. In my spare time, I am working on some side projects, 🚀 learning new technologies and 🎮 100%-ing the Assassin's Creed series on PS4/PS5.</p>
 
-<img align="right" alt="Moss eating popcorn gif, from the TV series IT Crowd" src="./facts.gif" />
-
 <h2>⚡️ A Few Quick Facts</h2>
 
+<img align="right" alt="Moss eating popcorn gif, from the TV series IT Crowd" src="./facts.gif" />
 <ul>
 <li>👨🏽‍💻 I’m currently working on my Master's Degree thesis application, which will be called 🙌 <strong>Skallar</strong> - an ElectronJS-based chat application, that uses an Express-based custom blockchain as a database (repository is private at the moment, but will be made public once it's finished 🤞).</li>
 <li>🧐 I’m currently learning about <strong>Webpack, Socket.io and Web components with StencilJS</strong>.</li>
