@@ -1,15 +1,15 @@
 <h2>Hi there, I'm Mircea - aka FromZeroToCicero 👋</h2>
 
-<p>I'm currently a 💻 <em>software engineer & mid-level FE developer</em> <strong><a href="https://ro.deloittedigital.com/">@DeloitteDigital</a></strong>, based in 🌁 Bucharest, Romania. I'm also pursuing the 📙 Master's Degree in <em>Management and Protection of Information</em> at 🏫 Politehnica University in Bucharest, being in my final year 👨‍🎓. In my spare time, I am working on some side projects, 🚀 learning new technologies and 🎮 100%-ing the Assassin's Creed series on PS4/PS5.</p>
+<p>I'm currently a 💻 <em>software engineer & mid-level FE developer</em> <strong><a href="https://ro.deloittedigital.com/">@DeloitteDigital</a></strong>, based in 🌁 Bucharest, Romania. I have a 📙 Master's Degree in <em>Management and Protection of Information</em> and a Bachelor's Degree in Computer Science at 🏫 Politehnica University in Bucharest. In my spare time, I am working on some side projects, 🚀 learning new technologies and 🎮 100%-ing the Assassin's Creed series on PS4/PS5.</p>
 
 <h2>⚡️ A Few Quick Facts</h2>
 
 <img align="right" alt="Moss eating popcorn gif, from the TV series IT Crowd" src="./facts.gif" />
 <ul>
-<li>👨🏽‍💻 I’m currently working on my Master's Degree thesis application, which will be called 🙌 <strong>Skallar</strong> - an ElectronJS-based chat application, that uses an Express-based custom blockchain as a database (repository is private at the moment, but will be made public once it's finished 🤞).</li>
-<li>🧐 I’m currently learning about <strong>Webpack, Socket.io and Web components with StencilJS</strong>.</li>
+<li>👨🏽‍💻 I've developed a really useful app for my Master's Degree dissertation exam, which is called 🙌 <strong>RoVotel</strong> - an online voting platform for the political elections in Romania, that uses an Express-based custom blockchain as a storage unit for the votes 🤞. If anyone is interested in purchasing the codebase or partnering up to launch the application with an updated use case, please reach out to me.</li>
+<li>🧐 I’m currently learning about <strong>Solidity, Flutter and Golang</strong>.</li>
 <li>💬 Ask me about anything, I'm happy to help.</li>
-<li>🥅 2021 Goals - 🖊️ Revisit my private Github repositories and hopefully publish some of them, 💻 continue developing cool projects, 🗺️ make the world a better place 👏.</li>
+<li>🥅 2021 Goals progress - 🖊️ Revisited some of my private Github repositories and made them public, plan is to try to finish or continue to improve some of my previous projects and hopefully publish them too, 💻 continue developing cool new projects & ideas, 🗺️ make the world a better place 👏.</li>
 <li>⚡ Fun fact - I was an olympic at history in highschool and was interested in Roman politics & philosophy, hence the name FromZeroToCicero 🤷‍♂️</li>
 </ul>
 
@@ -54,7 +54,7 @@
 </p>
 
 <h2>📈 Here are some Statistics</h2>
-<p>I know it ain't much, but it's honest work - working a full-time job and also studying at uni doesn't leave me much free time 🤷‍♂️</p>
+<p>I know it ain't much, but it's honest work - now that I finished my master's degree, I hope I will have more time to focus on my portfolio, whilst working a full-time job 🤷‍♂️</p>
 <p><img src="https://visitor-badge.laobi.icu/badge?page_id=FromZeroToCicero.FromZeroToCicero" alt="visitor badge"/></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=fromzerotocicero&show_icons=true&count_private=true&theme=tokyonight" alt="FromZeroToCicero github stats" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fromzerotocicero&layout=compact&theme=tokyonight" alt="FromZeroToCicero top langs"></p>
