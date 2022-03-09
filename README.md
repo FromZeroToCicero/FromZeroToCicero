@@ -7,7 +7,7 @@
 <img align="right" alt="Moss eating popcorn gif, from the TV series IT Crowd" src="./facts.gif" />
 <ul>
 <li>👨🏽‍💻 I've developed a really useful app for my Master's Degree dissertation exam, which is called 🙌 <strong>RoVotel</strong> - an online voting platform for the political elections in Romania, that uses an Express-based custom blockchain as a storage unit for the votes 🤞. If anyone is interested in purchasing the codebase or partnering up to launch the application with an updated use case, please reach out to me.</li>
-<li>🧐 I’m currently learning about <strong>Solidity, Remix, Tailwind and React Native</strong>.</li>
+<li>🧐 I’m currently learning more about <strong>Solidity, Remix, Tailwind and React Native</strong>.</li>
 <li>💬 Ask me about anything, I'm happy to help.</li>
 <li>🥅 2022 Goals progress - 🖊️ Revisited some of my private Github repositories and made them public, plan is to try to finish or continue to improve some of my previous projects and hopefully publish them too, 💻 continue developing cool new projects & ideas, 🗺️ make the world a better place 👏.</li>
 <li>⚡ Fun fact - I was an olympic at history in highschool and was interested in Roman politics & philosophy, hence the name FromZeroToCicero 🤷‍♂️</li>
@@ -36,16 +36,13 @@
 <img alt="Vuex" src="https://img.shields.io/badge/-Vuex-42b982?style=flat-square&logo=vue.js&logoColor=white" />
 <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffcb2b?style=flat-square&logo=firebase&logoColor=white" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-649b59?style=flat-square&logo=Node.js&logoColor=white" />
-<img alt="Deno" src="https://img.shields.io/badge/-Deno-000000?style=flat-square&logo=deno&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-419642?style=flat-square&logo=mongodb&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-<img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
 <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-3aadbc?style=flat-square&logo=netlify&logoColor=white" />
 <img alt="Github" src="https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-<img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-316adf?style=flat-square&logo=kubernetes&logoColor=white" />
 <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
 <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
