@@ -1,6 +1,6 @@
 <h2>Hi there, I'm Mircea - aka FromZeroToCicero 👋</h2>
 
-<p>I'm currently a 💻 <em>software engineer & senior-level FE developer</em> <strong><a href="https://explorado.ro/">@Explorado</a></strong>, based in 🌁 Bucharest, Romania. I have a 📙 Master's Degree in <em>Management and Protection of Information</em> and a Bachelor's Degree in Computer Science at 🏫 Politehnica University in Bucharest. In my spare time, I am working on some side projects, 🚀 learning new technologies and 🎮 100%-ing the Assassin's Creed series on PS4/PS5.</p>
+<p>I'm currently a 💻 <em>software engineer & senior-level FE developer</em> <strong><a href="https://www.cognizantsoftvision.com/">@CognizantSoftvision</a></strong>, based in 🌁 Bucharest, Romania. I have a 📙 Master's Degree in <em>Management and Protection of Information</em> and a Bachelor's Degree in Computer Science at 🏫 Politehnica University in Bucharest. In my spare time, I am working on some side projects, 🚀 learning new technologies and 🎮 100%-ing the Assassin's Creed series on PS4/PS5.</p>
 
 <h2>⚡️ A Few Quick Facts</h2>
 
