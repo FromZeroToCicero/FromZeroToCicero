@@ -1,6 +1,6 @@
 <h2>Hi there, I'm Mircea - aka FromZeroToCicero 👋</h2>
 
-<p>I'm currently a 💻 <em>senior software engineer</em> <strong><a href="https://www.cognizantsoftvision.com/">@CognizantSoftvision</a></strong>, based in 🌁 Bucharest, Romania. Recently I have also co-founded a tech start-up called SoloByte Technologies 🚀, that allows me to interact with new clients in a B2B manner and build beautiful websites as a fullstack freelancer. As education, I have a 📙 Master's Degree in <em>Management and Protection of Information</em> and a Bachelor's Degree in <em>Computer Science</em> at 🏫 Politehnica University in Bucharest. In my spare time, I enjoy working on small projects exploring new technologies 💻, swimming 🚀, making craft beer and 🎮 100%-ing the Assassin's Creed series on PS5.</p>
+<p>I'm currently a 💻 <em>senior software engineer</em> <strong><a href="https://www.cognizantsoftvision.com/">@CognizantSoftvision</a></strong>, based in 🌁 Bucharest, Romania. As education, I have a 📙 Master's Degree in <em>Management and Protection of Information</em> and a Bachelor's Degree in <em>Computer Science</em> at 🏫 Politehnica University in Bucharest. In my spare time, I enjoy working on small projects exploring new technologies 💻, swimming 🚀, making craft beer and 🎮 100%-ing the Assassin's Creed series on PS5.</p>
 
 <h2>⚡️ A Few Quick Facts</h2>
 
