@@ -7,9 +7,9 @@
 <img align="right" alt="Moss eating popcorn gif, from the TV series IT Crowd" src="./facts.gif" />
 <ul>
 <li>👨🏽‍💻 I've developed a really useful app for my Master's Degree dissertation exam, which is called 🙌 <strong>RoVotel</strong> - an online voting platform for the political elections in Romania, that uses an Express-based custom blockchain as a storage unit for the votes 🤞.</li>
-<li>🧐 I’m currently learning more about <strong>Next 14, React Native, Remix and advanced NodeJS features</strong>.</li>
+<li>🧐 I’m currently learning more about <strong>React Native, Remix and advanced NodeJS features</strong>.</li>
 <li>💬 Ask me about anything, I'm happy to help.</li>
-<li>🥅 2024 Goals progress - 💻 Continue developing cool new projects & ideas, 🚀 grow my start-up, 🗺️ make the world a better place 👏.</li>
+<li>🥅 2024 Goals progress - 💻 Continue developing cool new projects & ideas, 🗺️ make the world a better place 👏.</li>
 <li>⚡ I was an olympic at history in highschool and was interested in Roman politics & philosophy, hence the name FromZeroToCicero 🤷‍♂️</li>
 </ul>
 
